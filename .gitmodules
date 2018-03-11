@@ -1,0 +1,3 @@
+[submodule "CV"]
+	path = CV
+	url = https://github.com/Tyler314/CV.git
