@@ -1,11 +1,10 @@
 # Site settings
-title: Good Clean Read
-tag_text: Good Clean Read
-description: A responsive template for publishing single-page websites, articles that are easy on the eyes
-
-font-awesome-include: true # make this false if you don't need font-awesome
+title: Tyler J Roberts
+tag_text: tyler.engineering
+description: Tyler Roberts' professional website.
 
 # Build settings
 markdown: kramdown
-
 exclude: ["README.md"]
+sass:
+    style: compressed
